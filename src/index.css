@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.marquee-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .marquee-image {
+    height: 150px;
+    width: auto;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  

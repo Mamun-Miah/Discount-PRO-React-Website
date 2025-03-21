@@ -1,0 +1,314 @@
+[
+  {
+    "_id": "1",
+    "name": "Daraz",
+    "rating": 4.5,
+    "description": "Bangladesh's leading online marketplace for fashion, electronics, and home goods.",
+    "brand_logo": "https://i.ibb.co.com/zGNGFWJ/Daraz-New-Logo-Small.png",
+    "shop_Link": "https://www.daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "DARAZ2024",
+        "description": "Get 10% off on your first order",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of 500 BDT required",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "DARAZNEW50",
+        "description": "Flat 50 BDT off on new user registration",
+        "expiry_date": "2024-11-30",
+        "condition": "Only for new users",
+        "coupon_type": "Flat Discount"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Foodpanda",
+    "rating": 4.2,
+    "description": "Food delivery service providing meals from the best restaurants in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/qrJPHHk/Foodpanda-Logo-Small.png",
+    "shop_Link": "https://www.foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "PANDAEAT",
+        "description": "Get 20% off on all food orders",
+        "expiry_date": "2024-11-25",
+        "condition": "Max discount of 100 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "DELIVERYFREE",
+        "description": "Enjoy free delivery on orders above 300 BDT",
+        "expiry_date": "2024-12-15",
+        "condition": "Applicable only on partner restaurants",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "AjkerDeal",
+    "rating": 3.9,
+    "description": "One of the largest e-commerce platforms for daily deals and offers in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/0XWmxKH/ajkerdeal.png",
+    "shop_Link": "https://www.ajkerdeal.com",
+    "category": "E-commerce",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "AJKER100",
+        "description": "Get 100 BDT off on orders above 1000 BDT",
+        "expiry_date": "2025-01-01",
+        "condition": "Applicable on all products",
+        "coupon_type": "Flat Discount"
+      },
+      {
+        "coupon_code": "WINTERSALE",
+        "description": "15% off on winter collection",
+        "expiry_date": "2024-12-31",
+        "condition": "Max discount of 200 BDT",
+        "coupon_type": "Percentage"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "Chaldal",
+    "rating": 4.6,
+    "description": "Online grocery shopping made easy with fast delivery services.",
+    "brand_logo": "https://i.ibb.co.com/5RJ6nwm/Chaldal.jpg",
+    "shop_Link": "https://www.chaldal.com",
+    "category": "Groceries",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "GROCERY50",
+        "description": "Get 50 BDT off on your first grocery order",
+        "expiry_date": "2024-12-20",
+        "condition": "Minimum order of 500 BDT required",
+        "coupon_type": "Flat Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on orders above 200 BDT",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "name": "Bikroy",
+    "rating": 4.1,
+    "description": "Leading classified ads platform in Bangladesh for buying and selling.",
+    "brand_logo": "https://i.ibb.co.com/zhqJcHy/Bikroy.png",
+    "shop_Link": "https://www.bikroy.com",
+    "category": "Classifieds",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "SELLFAST",
+        "description": "Get 20% off on featured ad promotion",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on all categories",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "ADBOOST",
+        "description": "10% off on ad boosting services",
+        "expiry_date": "2024-11-30",
+        "condition": "One-time use per user",
+        "coupon_type": "Percentage"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "name": "Pickaboo",
+    "rating": 4.3,
+    "description": "Popular online shop for electronics and gadgets in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/yg08BxR/Pickaboo.png",
+    "shop_Link": "https://www.pickaboo.com",
+    "category": "Electronics",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "TECHSALE",
+        "description": "15% off on smartphones and accessories",
+        "expiry_date": "2024-12-25",
+        "condition": "Max discount of 300 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "PICKFREE",
+        "description": "Free delivery on all orders above 500 BDT",
+        "expiry_date": "2025-01-05",
+        "condition": "Valid on all products",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "name": "Pathao",
+    "rating": 4.4,
+    "description": "Bangladesh's popular ride-sharing and delivery service.",
+    "brand_logo": "https://i.ibb.co.com/WcD0Kk5/pahtao.png",
+    "shop_Link": "https://www.pathao.com",
+    "category": "Ride-sharing",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "RIDE10",
+        "description": "10% off on your first ride",
+        "expiry_date": "2025-02-28",
+        "condition": "Maximum discount 50 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "FOODIE100",
+        "description": "Flat 100 BDT off on food delivery",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum order of 500 BDT",
+        "coupon_type": "Flat Discount"
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "name": "Uber",
+    "rating": 4.3,
+    "description": "Global ride-hailing app available in major cities of Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/KyMJVj7/uber.png",
+    "shop_Link": "https://www.uber.com",
+    "category": "Ride-sharing",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "UBER50",
+        "description": "50 BDT off on your next ride",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for existing users",
+        "coupon_type": "Flat Discount"
+      },
+      {
+        "coupon_code": "FREEFIRST",
+        "description": "First ride free up to 100 BDT",
+        "expiry_date": "2024-11-30",
+        "condition": "New users only",
+        "coupon_type": "Free Ride"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "name": "Evaly",
+    "rating": 4.0,
+    "description": "E-commerce platform offering great deals on various products.",
+    "brand_logo": "https://i.ibb.co.com/Cbh63Xy/evaly.jpg",
+    "shop_Link": "https://www.evaly.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "EVALY2024",
+        "description": "20% off on selected products",
+        "expiry_date": "2025-01-31",
+        "condition": "Max discount of 300 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "FREESHIPPING",
+        "description": "Enjoy free shipping on all orders",
+        "expiry_date": "2024-12-20",
+        "condition": "No minimum purchase",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "name": "Shajgoj",
+    "rating": 4.5,
+    "description": "Popular beauty and skincare online store in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/kJS0vkt/Shajgoj.png",
+    "shop_Link": "https://www.shajgoj.com",
+    "category": "Beauty",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "BEAUTY15",
+        "description": "15% off on all beauty products",
+        "expiry_date": "2025-03-01",
+        "condition": "Max discount of 200 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "SKINFREE",
+        "description": "Free delivery on skincare products",
+        "expiry_date": "2025-01-15",
+        "condition": "Minimum order of 400 BDT",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "name": "Hungrynaki",
+    "rating": 4.2,
+    "description": "Food delivery service with a wide selection of restaurants.",
+    "brand_logo": "https://i.ibb.co.com/k8dcsMH/Hungrynaki.png",
+    "shop_Link": "https://www.hungrynaki.com",
+    "category": "Food Delivery",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "HUNGRY20",
+        "description": "20% off on your first order",
+        "expiry_date": "2024-12-31",
+        "condition": "Max discount of 100 BDT",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "NAKIFREE",
+        "description": "Free delivery on orders above 200 BDT",
+        "expiry_date": "2025-02-28",
+        "condition": "Only for selected restaurants",
+        "coupon_type": "Free Delivery"
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "name": "Banglalink",
+    "rating": 4.0,
+    "description": "One of the largest telecom operators in Bangladesh offering various services.",
+    "brand_logo": "https://i.ibb.co.com/rdQ3GRH/Banglalink.png",
+    "shop_Link": "https://www.banglalink.net",
+    "category": "Telecom",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "BLDATA50",
+        "description": "Get 50% extra data on recharge",
+        "expiry_date": "2025-01-10",
+        "condition": "Applicable on 100 BDT recharge",
+        "coupon_type": "Bonus Data"
+      },
+      {
+        "coupon_code": "CALLFREE",
+        "description": "Free 30 minutes on-net calls",
+        "expiry_date": "2024-12-31",
+        "condition": "Only for Banglalink to Banglalink calls",
+        "coupon_type": "Free Call"
+      }
+    ]
+  }
+]
